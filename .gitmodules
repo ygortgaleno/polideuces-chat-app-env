@@ -1,0 +1,3 @@
+[submodule "polideuces-backend"]
+	path = polideuces-backend
+	url = git@github.com:ygortgaleno/polideuces-backend.git
